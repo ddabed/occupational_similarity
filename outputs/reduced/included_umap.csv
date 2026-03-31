@@ -1,0 +1,620 @@
+x,y,code,title,major_group
+11.790689,4.3474393,1,Managers,1
+11.484332,4.26791,11,"Chief Executives, Senior Officials and Legislators",1
+12.004952,4.5252037,111,Legislators and Senior Officials,1
+11.997631,4.657882,1111,Legislators,1
+11.993517,4.7337804,1112,Senior Government Officials,1
+3.6750884,2.3914511,1113,Traditional Chiefs and Heads of Villages,1
+11.876276,4.47873,1114,Senior Officials of Special-interest Organizations,1
+11.739282,4.2998204,112,Managing Directors and Chief Executives,1
+11.836244,4.2248106,1120,Managing Directors and Chief Executives,1
+11.340037,4.201599,12,Administrative and Commercial Managers,1
+11.775622,4.260901,121,Business Services and Administration Managers,1
+11.602701,3.8270144,1211,Finance Managers,1
+11.8276205,4.1347156,1212,Human Resource Managers,1
+11.976464,4.515638,1213,Policy and Planning Managers,1
+11.840382,4.3152223,1219,Business Services and Administration Managers Not Elsewhere Classified,1
+10.077884,3.582918,122,"Sales, Marketing and Development Managers",1
+9.933393,3.6908631,1221,Sales and Marketing Managers,1
+10.176673,3.5627477,1222,Advertising and Public Relations Managers,1
+11.851534,4.135666,1223,Research and Development Managers,1
+11.227991,4.1200914,13,Production and Specialized Services Managers,1
+3.9166632,3.1638517,131,"Production Managers in Agriculture, Forestry and Fisheries",1
+3.8882499,2.9802885,1311,Agricultural and Forestry Production Managers,1
+5.3621197,0.69609284,1312,Aquaculture and Fisheries Production Managers,1
+8.524776,2.638482,132,"Manufacturing, Mining, Construction and Distribution Managers",1
+8.47522,2.6476185,1321,Manufacturing Managers,1
+7.9345903,2.257944,1322,Mining Managers,1
+7.821635,3.2211154,1323,Construction Managers,1
+9.281958,3.628403,1324,"Supply, Distribution and Related Managers",1
+8.729024,-0.9298981,133,Information and Communications Technology Service managers,1
+8.660856,-0.8629524,1330,Information and Communications Technology Service Managers,1
+11.703192,4.6578813,134,Professional Services Managers,1
+12.027149,0.622284,1341,Child Care Service Managers,1
+11.69358,5.0551944,1342,Health Service Managers,1
+11.667719,5.0352,1343,Aged Care Service Managers,1
+11.79627,4.824979,1344,Social Welfare Managers,1
+11.7926855,1.0376743,1345,Education Managers,1
+11.326618,3.798051,1346,Financial and Insurance Services Branch managers,1
+11.536279,4.7318397,1349,Professional Services Managers Not Elsewhere Classified,1
+11.073264,4.2885566,14,"Hospitality, Retail and Other Services Managers",1
+10.138399,5.174651,141,Hotel and Restaurant Managers,1
+10.067601,5.2257757,1411,Hotel Managers,1
+9.387456,6.5232563,1412,Restaurant Managers,1
+9.738501,3.706681,142,Retail and Wholesale Trade Managers,1
+9.632808,3.7264845,1420,Retail and Wholesale Trade Managers,1
+11.023538,4.684594,143,Other Services Managers,1
+11.036704,4.758379,1431,"Sports, Recreation and Cultural Centre Managers",1
+-6.3059764,7.4306746,1439,Services Managers Not Elsewhere Classified,1
+11.048506,1.6674051,2,Professionals,2
+10.314132,1.6753622,21,Science and Engineering Professionals,2
+9.121432,1.4412309,211,Physical and Earth Science Professionals,2
+9.175986,1.4226547,2111,Physicists and Astronomers,2
+8.640564,1.6696297,2112,Meteorologists,2
+8.479807,1.5643358,2113,Chemists,2
+7.9861197,2.0559156,2114,Geologists and geophysicists,2
+11.237547,2.7792041,212,"Mathematicians, Actuaries and Statisticians",2
+11.224251,2.7675796,2120,"Mathematicians, Actuaries and Statisticians",2
+8.758379,1.7708648,213,Life Science Professionals,2
+8.774886,1.5740091,2131,"Biologists, Botanists, Zoologists and Related Professionals",2
+4.3180637,2.570198,2132,"Farming, Forestry and Fisheries Advisers",2
+8.620997,2.0211844,2133,Environmental Protection Professionals,2
+7.7683625,1.8775494,214,Engineering Professionals (excluding Electrotechnology),2
+8.303673,2.3836174,2141,Industrial and Production Engineers,2
+7.827061,3.0592551,2142,Civil Engineers,2
+8.453874,2.0507421,2143,Environmental Engineers,2
+7.344958,1.0785265,2144,Mechanical Engineers,2
+8.171569,1.7398309,2145,Chemical Engineers,2
+7.6121173,2.1481562,2146,"Mining Engineers, Metallurgists and Related Professionals",2
+7.74839,0.95423037,2149,Engineering Professionals Not Elsewhere Classified,2
+7.3450527,-0.06439243,215,Electrotechnology Engineers,2
+7.2273736,-0.00521612,2151,Electrical Engineers,2
+7.6760745,0.09952033,2152,Electronics Engineers,2
+7.8680677,-0.25590363,2153,Telecommunications Engineers,2
+8.139157,2.8872318,216,"Architects, Planners, Surveyors and Designers",2
+7.904004,3.0512793,2161,Building Architects,2
+7.9560537,2.8809028,2162,Landscape Architects,2
+8.1740265,2.9433217,2163,Product and Garment Designers,2
+7.992796,2.7213387,2164,Town and Traffic Planners,2
+7.9539685,2.430266,2165,Cartographers and Surveyors,2
+8.193509,2.9043832,2166,Graphic and Multimedia Designers,2
+10.624962,1.7724669,22,Health Professionals,2
+11.453869,7.4715333,221,Medical Doctors,2
+11.373778,7.4545317,2211,Generalist Medical Practitioners,2
+11.580485,7.4788184,2212,Specialist Medical Practitioners,2
+11.335526,7.4791574,222,Nursing and Midwifery Professionals,2
+11.3235855,7.598413,2221,Nursing Professionals,2
+11.267246,7.5274854,2222,Midwifery Professionals,2
+11.586305,7.884027,223,Traditional and Complementary Medicine Professionals,2
+11.561813,7.9133453,2230,Traditional and Complementary Medicine Professionals,2
+11.748241,7.4673367,224,Paramedical Practitioners,2
+11.639773,7.5308824,2240,Paramedical Practitioners,2
+2.970423,3.2292655,225,Veterinarians,2
+2.947242,3.2607546,2250,Veterinarians,2
+11.882843,7.7607255,226,Other Health Professionals,2
+12.012256,7.8173795,2261,Dentists,2
+11.840763,7.474525,2262,Pharmacists,2
+8.609775,2.21794,2263,Environmental and Occupational Health and Hygiene Professionals,2
+11.575248,7.860145,2264,Physiotherapists,2
+9.547108,6.802907,2265,Dieticians and Nutritionists,2
+11.737356,7.81498,2266,Audiologists and Speech Therapists,2
+11.698247,7.3831677,2267,Optometrists and Ophthalmic Opticians,2
+11.578945,7.8970346,2269,Health Professionals Not Elsewhere Classified,2
+11.668837,1.2404009,23,Teaching Professionals,2
+11.427259,1.3820022,231,University and Higher Education Teachers,2
+11.465552,1.3427101,2310,University and Higher Education Teachers,2
+11.56395,1.1396323,232,Vocational education teachers,2
+11.5485115,1.1530204,2320,Vocational Education Teachers,2
+11.803434,0.93016815,233,Secondary Education Teachers,2
+11.838661,1.0524851,2330,Secondary Education Teachers,2
+11.9766,0.6717405,234,Primary School and Early Childhood Teachers,2
+11.942085,0.7608319,2341,Primary School Teachers,2
+12.05774,0.60443324,2342,Early Childhood Educators,2
+11.965921,1.2351868,235,Other Teaching Professionals,2
+11.785311,1.0558977,2351,Education Methods Specialists,2
+11.918488,0.934555,2352,Special Needs Teachers,2
+11.8970785,1.053156,2353,Other Language Teachers,2
+12.066366,1.3329979,2354,Other Music Teachers,2
+12.059369,1.3046069,2355,Other Arts Teachers,2
+8.853384,-0.8388471,2356,Information Technology Trainers,2
+11.862151,1.0597235,2359,Teaching Professionals Not Elsewhere Classified,2
+11.1915655,4.028454,24,Business and Administration Professionals,2
+11.4106,3.411069,241,Finance Professionals,2
+11.526768,3.5713015,2411,Accountants,2
+10.891481,3.5297396,2412,Financial and Investment Advisers,2
+11.082482,3.2662718,2413,Financial Analysts,2
+11.77271,4.339673,242,Administration Professionals,2
+11.825729,4.2433276,2421,Management and Organization Analysts,2
+11.89934,4.6741076,2422,Policy Administration Professionals,2
+12.146442,3.6318262,2423,Personnel and Careers Professionals,2
+11.523222,1.0247077,2424,Training and Staff Development Professionals,2
+10.025333,3.7379346,243,"Sales, Marketing and Public Relations Professionals",2
+10.023195,3.648654,2431,Advertising and Marketing Professionals,2
+10.262556,3.5127602,2432,Public Relations Professionals,2
+9.942226,4.098659,2433,Technical and Medical Sales Professionals (excluding ICT),2
+9.809641,4.1042666,2434,Information and Communications Technology Sales Professionals,2
+8.748967,-0.945376,25,Information and Communications Technology Professionals,2
+8.7561865,-0.9456098,251,Software and Applications Developers and Analysts,2
+8.784733,-0.9949866,2511,Systems Analysts,2
+8.759446,-0.967943,2512,Software Developers,2
+8.719989,-0.9460146,2513,Web and Multimedia Developers,2
+8.815176,-0.994479,2514,Applications Programmers,2
+8.768327,-0.9743523,2519,Software and Applications Developers and Analysts Not Elsewhere Classified,2
+8.808992,-0.98192036,252,Database and Network Professionals,2
+8.882796,-0.9734992,2521,Database Designers and Administrators,2
+8.473261,-0.7366786,2522,Systems Aministrators,2
+8.453173,-0.7135196,2523,Computer Network Professionals,2
+8.580807,-0.82522005,2529,Database and Network Professionals Not Elsewhere Classified,2
+12.455457,4.008811,26,"Legal, Social and Cultural Professionals",2
+12.725922,4.2232165,261,Legal Professionals,2
+12.711389,4.223918,2611,Lawyers,2
+12.597832,4.326241,2612,Judges,2
+12.754752,4.1759443,2619,Legal Professionals Not Elsewhere Classified,2
+12.662039,2.4677713,262,"Librarians, Archivists and Curators",2
+12.710005,2.5455859,2621,Archivists and Curators,2
+12.750408,2.5633347,2622,Librarians and Related Information Professionals,2
+11.129255,1.9144901,263,Social and Religious Professionals,2
+11.170192,3.110287,2631,Economists,2
+11.054012,2.0830584,2632,"Sociologists, Anthropologists and Related Professionals",2
+11.327854,2.0947535,2633,"Philosophers, Historians and Political Scientists",2
+11.764408,1.0351998,2634,Psychologists,2
+12.152054,4.994596,2635,Social Work and Counselling Professionals,2
+11.981032,4.699597,2636,Religious Professionals,2
+12.339373,2.3524735,264,"Authors, Journalists and Linguists",2
+12.436562,2.4328249,2641,Authors and Related Writers,2
+12.225243,2.2848485,2642,Journalists,2
+12.432598,2.4799244,2643,"Translators, Interpreters and Other Linguists",2
+12.349566,1.7782267,265,Creative and Performing Artists,2
+6.4059124,3.3094423,2651,Visual Artists,2
+12.230006,1.6338122,2652,"Musicians, Singers and Composers",2
+12.256927,1.7013999,2653,Dancers and Choreographers,2
+12.380507,1.7974199,2654,"Film, Stage and Related Directors and Producers",2
+12.361727,1.7990321,2655,Actors,2
+12.167113,2.126754,2656,"Announcers on Radio, Television and Other Media",2
+12.244966,1.82438,2659,Creative and Performing Artists Not Elsewhere Classified,2
+7.7906446,0.2133899,3,Technicians and Associate Professionals,3
+7.5777698,0.4795541,31,Science and Engineering Associate Professionals,3
+8.761445,1.3400525,311,Physical and Engineering Science Technicians,3
+8.581854,1.6240032,3111,Chemical and Physical Science Technicians,3
+7.769472,3.1563644,3112,Civil Engineering Technicians,3
+7.3439026,-0.062051613,3113,Electrical Engineering Technicians,3
+7.6048546,0.037446767,3114,Electronics Engineering Technicians,3
+7.038888,1.0508537,3115,Mechanical Engineering Technicians,3
+8.23774,1.706832,3116,Chemical Engineering Technicians,3
+7.663843,2.0539246,3117,Mining and metallurgical technicians,3
+7.174681,1.3346579,3118,Draughtspersons,3
+8.37833,1.9690373,3119,Physical and Engineering Science Technicians Not Elsewhere Classified,3
+8.72572,2.8622265,312,"Mining, Manufacturing and Construction Supervisors",3
+7.393453,2.2150893,3121,Mining Supervisors,3
+8.559215,2.5445864,3122,Manufacturing Supervisors,3
+7.682797,3.0952153,3123,Construction Supervisors,3
+7.411744,0.64712924,313,Process Control Technicians,3
+7.171586,0.07149266,3131,Power Production Plant Operators,3
+7.264615,1.7365965,3132,Incinerator and Water Treatment Plant Operators,3
+7.091617,1.9069538,3133,Chemical Processing Plant Controllers,3
+7.1871614,1.7176571,3134,Petroleum and Natural Gas Refining Plant Operators,3
+6.8965693,1.9384074,3135,Metal Production Process Controllers,3
+-6.337393,7.46242,3139,Process Control Technicians Not Elsewhere Classified,3
+8.900771,1.5452992,314,Life Science Technicians and Related Associate Professionals,3
+8.647853,1.5357677,3141,Life Science Technicians (excluding Medical),3
+4.2835083,2.9323635,3142,Agricultural Technicians,3
+4.897159,2.411686,3143,Forestry Technicians,3
+6.111925,0.5963177,315,Ship and Aircraft Controllers and Technicians,3
+6.032723,0.6980922,3151,Ships' Engineers,3
+5.706979,0.6206935,3152,Ships' Deck Officers and Pilots,3
+7.540817,0.5855039,3153,Aircraft Pilots and Related Associate Professionals,3
+7.641802,0.58409053,3154,Air Traffic Controllers,3
+7.58698,0.46756676,3155,Air Traffic Safety Electronics Technicians,3
+12.001587,7.427073,32,Health Associate Professionals,3
+12.0252,7.4627857,321,Medical and Pharmaceutical Technicians,3
+12.092045,7.5023327,3211,Medical Imaging and Therapeutic Equipment Technicians,3
+11.487038,7.0724864,3212,Medical and Pathology Laboratory Technicians,3
+11.854451,7.4820123,3213,Pharmaceutical Technicians and Assistants,3
+11.931791,7.8272266,3214,Medical and Dental Prosthetic Technicians,3
+11.4316435,7.440803,322,Nursing and Midwifery Associate Professionals,3
+11.557522,7.625612,3221,Nursing Associate Professionals,3
+11.323581,7.4590087,3222,Midwifery Associate Professionals,3
+11.546242,7.961274,323,Traditional and Complementary Medicine Associate Professionals,3
+11.564512,7.98439,3230,Traditional and Complementary Medicine Associate Professionals,3
+2.9118376,3.2798176,324,Veterinary Technicians and Assistants,3
+3.0380342,3.1724937,3240,Veterinary Technicians and Assistants,3
+11.905832,7.6600866,325,Other Health Associate Professionals,3
+11.917168,7.6926126,3251,Dental Assistants and Therapists,3
+11.846551,7.326275,3252,Medical Records and Health Information Technicians,3
+11.446017,7.6055355,3253,Community Health Workers,3
+6.5168753,2.8148153,3254,Dispensing Opticians,3
+11.60762,7.878209,3255,Physiotherapy Technicians and Assistants,3
+11.804199,7.41668,3256,Medical Assistants,3
+8.588576,2.2480953,3257,Environmental and Occupational Health Inspectors and Associates,3
+11.652696,7.403936,3258,Ambulance Workers,3
+11.537552,7.5138,3259,Health Associate Professionals Not Elsewhere Classified,3
+11.140724,3.7494972,33,Business and Administration Associate Professionals,3
+11.169494,3.5123525,331,Financial and Mathematical Associate Professionals,3
+10.868853,3.5752208,3311,Securities and Finance Dealers and Brokers,3
+11.160856,3.6171494,3312,Credit and Loans Officers,3
+11.437953,3.3965876,3313,Accounting Associate Professionals,3
+11.278591,2.8391302,3314,"Statistical, Mathematical and Related Associate Professionals",3
+5.5146356,3.5300932,3315,Valuers and Loss Assessors,3
+10.103892,4.231741,332,Sales and Purchasing Agents and Brokers,3
+10.602386,3.7846293,3321,Insurance Representatives,3
+9.724308,4.0581603,3322,Commercial Sales Representatives,3
+9.502174,3.9068856,3323,Buyers,3
+9.605392,4.0475717,3324,Trade Brokers,3
+9.923133,4.6139903,333,Business Services Agents,3
+9.64408,4.2251306,3331,Clearing and Forwarding Aents,3
+10.167428,4.794382,3332,Conference and Event Planners,3
+12.122771,3.5525355,3333,Employment agents and contractors,3
+9.835553,4.8118033,3334,Real Estate Agents and Property Managers,3
+9.900319,4.1937194,3339,Business Services Agents Not Elsewhere Classified,3
+12.663461,3.64927,334,Administrative and Specialized Secretaries,3
+12.492039,3.4739304,3341,Office Supervisors,3
+12.780521,3.9354317,3342,Legal Secretaries,3
+12.60062,3.5039861,3343,Administrative and Executive Secretaries,3
+11.775084,7.3089757,3344,Medical Secretaries,3
+11.404233,5.2646136,335,Government Regulatory  Associate Professionals,3
+11.267601,5.367698,3351,Customs and Border Inspectors,3
+12.102451,4.8459105,3352,Government Tax and Excise Officials,3
+12.210295,4.7632084,3353,Government Social Benefits Officials,3
+12.089763,4.828557,3354,Government Licensing Officials,3
+11.417321,5.4525723,3355,Police Inspectors and Detectives,3
+11.245394,4.698175,3359,Government Regulatory AssociatePprofessionals Not Elsewhere Classified,3
+11.374224,4.471394,34,"Legal, Social, Cultural and Related Associate Professionals",3
+12.479795,4.5224934,341,"Legal, Social and Religious Associate Professionals",3
+12.768065,4.112985,3411,Legal and Related Associate Professionals,3
+12.1737175,5.0168195,3412,Social Work Associate Professionals,3
+11.85296,4.8745656,3413,Religious Associate Professionals,3
+11.568354,4.065506,342,Sports and Fitness Workers,3
+11.522731,4.0638695,3421,Athletes and Sports Players,3
+11.595712,4.112436,3422,"Sports Coaches, Instructors and Officials",3
+11.537223,4.0400996,3423,Fitness and Recreation Instructors and Programme Leaders,3
+12.483849,1.8439434,343,"Artistic, Cultural and Culinary Associate Professionals",3
+6.3622885,3.4386146,3431,Photographers,3
+8.132204,2.9605453,3432,Interior Designers and Decorators,3
+12.726648,2.4160933,3433,"Gallery, Museum and Library Technicians",3
+9.403896,6.6240315,3434,Chefs,3
+-6.285326,7.4100075,3435,Other Artistic and Cultural Associate Professionals,3
+7.934218,-0.21621342,35,Information and Communications Technicians,3
+8.438081,-0.6952769,351,Information and Communications Technology Operations and User Support Technicians,3
+8.337228,-0.573089,3511,Information and Communications Technology Operations Technicians,3
+8.472607,-0.7316837,3512,Information and Communications Technology User Support Technicians,3
+8.41208,-0.6783978,3513,Computer Network and Systems Technicians,3
+8.550367,-0.8277878,3514,Web Technicians,3
+7.889009,-0.22599825,352,Telecommunications and Broadcasting Technicians,3
+8.086071,-0.37964278,3521,Broadcasting and Audio-visual Technicians,3
+7.7844863,-0.1960904,3522,Telecommunications Engineering Technicians,3
+12.620863,3.5293453,4,Clerical Support Workers,4
+12.594386,3.0402122,41,General and Keyboard Clerks,4
+12.609036,3.0903463,411,General Office Clerks,4
+12.623876,3.173155,4110,General Office Clerks,4
+12.691599,3.247712,412,Secretaries (general),4
+12.6695385,3.2643676,4120,Secretaries (general),4
+12.57124,2.9767861,413,Keyboard Operators,4
+12.646475,2.852687,4131,Typists and Word Processing Operators,4
+11.69189,3.1285925,4132,Data Entry Clerks,4
+10.974242,4.1726446,42,Customer Services Clerks,4
+10.850959,3.8103034,421,"Tellers, Money Collectors and Related Clerks",4
+10.711413,3.86008,4211,Bank Tellers and Related Clerks,4
+11.050707,3.9044814,4212,"Bookmakers, Croupiers and Related Gaming Workers",4
+3.8082964,2.8769193,4213,Pawnbrokers and Money-lenders,4
+10.702299,3.8785837,4214,Debt Collectors and Related Workers,4
+10.212915,4.8039064,422,Client Information Workers,4
+9.8947,4.8702836,4221,Travel Consultants and Clerks,4
+10.301973,4.2520456,4222,Contact Centre Information Clerks,4
+8.240713,-0.49847078,4223,Telephone Switchboard Operators,4
+10.027951,5.098708,4224,Hotel Receptionists,4
+10.43519,4.375493,4225,Inquiry Clerks,4
+10.209216,4.8633647,4226,Receptionists (general),4
+10.741554,4.5514584,4227,Survey and Market Research Interviewers,4
+11.655045,7.3419237,4229,Client Information Workers Not Elsewhere Classified,4
+11.250456,3.720233,43,Numerical and Material Recording Clerks,4
+11.428039,3.2904463,431,Numerical Clerks,4
+11.4915085,3.2241917,4311,Accounting and Bookkeeping Clerks,4
+11.377727,3.2734375,4312,"Statistical, Finance and Insurance Clerks",4
+11.85116,3.276322,4313,Payroll Clerks,4
+8.994372,3.3742828,432,Material Recording and Transport Clerks,4
+9.114014,3.8038995,4321,Stock Clerks,4
+8.635937,2.757531,4322,Production Clerks,4
+8.325657,4.605509,4323,Transport Clerks,4
+12.666918,2.9741626,44,Other Clerical Support Workers,4
+12.729539,2.889571,441,Other Clerical Support Workers,4
+12.807569,2.739237,4411,Library Clerks,4
+12.4448395,2.9726696,4412,Mail Carriers and Sorting Clerks,4
+12.65603,2.857319,4413,"Coding, Proofreading and Related Clerks",4
+12.752542,3.1502128,4414,Scribes and Related Workers,4
+12.686287,2.8920383,4415,Filing and Copying Clerks,4
+12.279647,3.4291701,4416,Personnel Clerks,4
+10.077353,3.9028802,4419,Clerical Support Workers Not Elsewhere Classified,4
+9.48068,4.5484586,5,Service and Sales Workers,5
+10.890488,4.698039,51,Personal Service Workers,5
+9.198499,4.967919,511,"Travel Attendants, Conductors and Guides",5
+8.804634,4.761793,5111,Travel Attendants and Travel Stewards,5
+8.433479,4.782751,5112,Transport Conductors,5
+9.929491,4.9675274,5113,Travel Guides,5
+9.330578,6.6497965,512,Cooks,5
+9.281382,6.62624,5120,Cooks,5
+9.582633,5.888618,513,Waiters and Bartenders,5
+9.567084,6.011723,5131,Waiters,5
+9.632446,5.847987,5132,Bartenders,5
+10.000517,5.4925575,514,"Hairdressers, Beauticians and Related Workers",5
+9.879927,5.4492407,5141,Hairdressers,5
+9.952595,5.559729,5142,Beauticians and Related Workers,5
+9.444771,5.27083,515,Building and Housekeeping Supervisors,5
+9.20225,5.733727,5151,"Cleaning and Housekeeping Supervisors in Offices, Hotels and Other Establishments",5
+9.104334,5.8021646,5152,Domestic Housekeepers,5
+9.782762,5.1054883,5153,Building Caretakers,5
+10.85537,4.963775,516,Other Personal Services Workers,5
+11.002618,4.9367523,5161,"Astrologers, Fortune-tellers and Related Workers",5
+12.13351,3.485627,5162,Companions and Valets,5
+10.997994,4.9708896,5163,Undertakers and Embalmers,5
+2.8438973,3.355857,5164,Pet Groomers and Animal Care Workers,5
+8.041733,4.926533,5165,Driving Instructors,5
+10.099643,4.9889054,5169,Personal Services Workers Not Elsewhere Classified,5
+9.250099,4.5536294,52,Sales Workers,5
+9.233074,4.5927997,521,Street and Market Salespersons,5
+9.321154,4.4183745,5211,Stall and Market Salespersons,5
+9.218797,4.6258464,5212,Street Food Salespersons,5
+9.57563,4.111575,522,Shop Aalespersons,5
+9.489988,3.9158776,5221,Shopkeepers,5
+9.74278,3.9044714,5222,Shop Supervisors,5
+9.770115,4.0480914,5223,Shop Sales Assistants,5
+10.671182,3.912031,523,Cashiers and Ticket Clerks,5
+10.643667,3.8723564,5230,Cashiers and Ticket Clerks,5
+9.52784,4.489019,524,Other Sales Workers,5
+6.3656073,3.8847547,5241,Fashion and Other Models,5
+9.707803,4.104031,5242,Sales Demonstrators,5
+9.907003,4.1903033,5243,Door-to-door Salespersons,5
+9.945394,3.8420854,5244,Contact Centre Salespersons,5
+8.177075,4.9073834,5245,Service Station Attendants,5
+9.398615,6.4901104,5246,Food Service Counter Attendants,5
+-6.2592425,7.3839183,5249,Sales Workers Not Elsewhere Classified,5
+12.090969,0.59576744,53,Personal Care Workers,5
+12.081698,0.60766494,531,Child Care Workers and Teachers' Aides,5
+12.0357275,0.66526324,5311,Child Care Workers,5
+11.984499,0.73248965,5312,Teachers' Aides,5
+11.846457,7.444678,532,Personal Care Workers in Health Services,5
+11.390524,7.6691732,5321,Health Care Assistants,5
+11.330636,7.5752068,5322,Home-based Personal Care Workers,5
+12.01696,7.472532,5329,Personal Care Workers in Health Services Not Elsewhere Classified,5
+11.036774,5.4842196,54,Protective Services Workers,5
+11.158821,5.51707,541,Protective Services Workers,5
+11.0681505,5.553537,5411,Fire Fighters,5
+11.18429,5.524065,5412,Police Officers,5
+11.290955,5.481803,5413,Prison Guards,5
+10.784166,5.424402,5414,Security Guards,5
+11.026665,5.611473,5419,Protective Services Workers Not Elsewhere Classified,5
+4.1885195,2.4934123,6,"Skilled Agricultural, Forestry and Fishery Workers",6
+4.1509786,2.588782,61,Market-oriented Skilled Agricultural Workers,6
+3.9405026,2.8278298,611,Market Gardeners and Crop Growers,6
+3.8823864,2.9239736,6111,Field Crop and Vegetable Growers,6
+3.9180799,2.8631206,6112,Tree and Shrub Crop Growers,6
+3.9890316,2.9259844,6113,"Gardeners, Horticultural and Nursery Growers",6
+3.8790965,2.9372206,6114,Mixed Crop Growers,6
+3.3142247,3.1874053,612,Animal Producers,6
+3.3616316,3.1299849,6121,Livestock and Dairy Producers,6
+3.538998,3.1164937,6122,Poultry Producers,6
+3.8128283,3.106507,6123,Apiarists and Sericulturists,6
+3.2732089,3.1553733,6129,Animal Producers Not Elsewhere Classified,6
+3.663487,3.1177077,613,Mixed Crop and Animal Producers,6
+3.5709925,3.1196685,6130,Mixed Crop and Animal Producers,6
+5.6339297,1.7013428,62,"Market-Oriented Skilled Forestry, Fishery and Hunting Workers",6
+5.100391,2.4303124,621,Forestry and Related Workers,6
+5.0228014,2.4049737,6210,Forestry and Related Workers,6
+5.455977,0.6220735,622,"Fishery Workers, Hunters and Trappers",6
+5.3916154,0.63451904,6221,Aquaculture Workers,6
+5.507928,0.6103105,6222,Inland and Coastal Waters Fishery Workers,6
+5.528675,0.604304,6223,Deep-sea Fishery Workers,6
+3.0981183,3.1531103,6224,Hunters and Trappers,6
+4.1199703,2.5417004,63,"Subsistence Farmers, Fishers, Hunters and Gatherers",6
+3.7838647,2.4875526,631,Subsistence Crop Farmers,6
+3.7187116,2.4121041,6310,Subsistence Crop Farmers,6
+3.2563999,3.1054926,632,Subsistence Livestock Farmers,6
+3.2647462,3.0990927,6320,Subsistence Livestock Farmers,6
+3.7352262,2.4625432,633,Subsistence Mixed Crop and Livestock Farmers,6
+3.7042968,2.4396815,6330,Subsistence Mixed Crop and Livestock Farmers,6
+3.7508795,2.3813462,634,"Subsistence Fishers, Hunters, Trappers and Gatherers",6
+3.7259758,2.3508189,6340,"Subsistence Fishers, Hunters, Trappers and Gatherers",6
+6.2052555,2.0326262,7,Craft and Related Trades Workers,7
+7.356126,3.1622145,71,Building and Related Trades Workers (excluding Electricians),7
+7.434741,3.265319,711,Building Frame and Related Trades Workers,7
+7.586974,3.341717,7111,House Builders,7
+7.4455967,3.3094208,7112,Bricklayers and Related Workers,7
+7.2549925,3.1237156,7113,"Stonemasons, Stone Cutters, Splitters and Carvers",7
+7.4892406,3.3767927,7114,"Concrete Placers, Concrete Finishers and Related Workers",7
+5.5516896,2.4831421,7115,Carpenters and Joiners,7
+7.474733,3.2711172,7119,Building Frame and Related Trades Workers Not Elsewhere Classified,7
+7.398964,3.754298,712,Building Finishers and Related Trades Workers,7
+7.584688,3.3906624,7121,Roofers,7
+7.4425516,3.65372,7122,Floor Layers and Tile Setters,7
+7.385229,3.7250504,7123,Plasterers,7
+7.3119655,3.5705152,7124,Insulation Workers,7
+6.522753,2.8048368,7125,Glaziers,7
+7.719098,1.9122585,7126,Plumbers and Pipe Fitters,7
+7.0814805,0.7473931,7127,Air Conditioning and Refrigeration Mechanics,7
+7.302994,4.1706257,713,"Painters, Building Structure Cleaners and Related Trades Workers",7
+7.2910337,4.082964,7131,Painters and Related Workers,7
+7.3386855,4.3108354,7132,Spray Painters and Varnishers,7
+7.35999,4.276693,7133,Building Structure Cleaners,7
+6.342225,1.7488401,72,"Metal, Machinery and Related Trades Workers",7
+6.371984,1.6361599,721,"Sheet and Structural Metal Workers, Moulders and Welders, and Related Workers",7
+6.3382993,1.7047108,7211,Metal Moulders and Coremakers,7
+6.4017344,1.6416086,7212,Welders and Flame Cutters,7
+6.448887,1.6292623,7213,Sheet Metal Workers,7
+6.316654,1.6045314,7214,Structural Metal Preparers and Erectors,7
+8.008174,4.0769963,7215,Riggers and Cable Splicers,7
+6.3048587,1.7773454,722,"Blacksmiths, Toolmakers and Related Trades Workers",7
+6.422888,1.7493007,7221,"Blacksmiths, Hammersmiths and Forging Press Workers",7
+6.389661,1.6315659,7222,Toolmakers and Related Workers,7
+6.312542,1.8800985,7223,Metal Working Machine Tool Setters and  Operators,7
+6.293786,2.0215704,7224,"Metal Polishers, Wheel Grinders and Tool Sharpeners",7
+6.9246826,1.1058737,723,Machinery Mechanics and Repairers,7
+6.938101,0.9195234,7231,Motor Vehicle Mechanics and Repairers,7
+7.186778,0.632288,7232,Aircraft Engine Mechanics and Repairers,7
+6.9135976,0.95098376,7233,Agricultural and Industrial Machinery Mechanics and Repairers,7
+7.9020524,4.710483,7234,Bicycle and Related Repairers,7
+6.0372753,2.3489723,73,Handicraft and Printing Workers,7
+6.039351,2.5666564,731,Handicraft Workers,7
+7.157231,0.56817436,7311,Precision-instrument Makers and Repairers,7
+5.8612456,2.5478525,7312,Musical Instrument Makers and Tuners,7
+6.2337036,2.4260738,7313,Jewellery and Precious Metal Workers,7
+6.167594,2.4199533,7314,Potters and Related Workers,7
+6.447656,2.6869085,7315,"Glass Makers, Cutters, Grinders and Finishers",7
+6.3545933,3.1505466,7316,"Sign Writers, Decorative Painters, Engravers and Etchers",7
+5.9554358,2.7116325,7317,"Handicraft Workers in Wood, Basketry and Related Materials",7
+5.817547,4.17108,7318,"Handicraft Workers in Textile, Leather and Related Materials",7
+-6.213296,7.3379407,7319,Handicraft Workers Not Elsewhere Classified,7
+6.333049,3.3646445,732,Printing Trades Workers,7
+6.2956295,3.3802433,7321,Pre-press Technicians,7
+6.1360354,3.3637488,7322,Printers,7
+6.251148,3.4647164,7323,Print Finishing and Binding Workers,7
+7.409807,0.20120013,74,Electrical and Electronics Trades Workers,7
+7.2178698,0.06712312,741,Electrical Equipment Installers and Repairers,7
+7.249472,0.019085513,7411,Building and Related Electricians,7
+7.2097073,0.006024733,7412,Electrical Mechanics and Fitters,7
+7.2280617,0.06257393,7413,Electrical Line Installers and Repairers,7
+7.7221313,0.09598187,742,Electronics and Telecommunications Installers and Repairers,7
+7.288059,0.4514542,7421,Electronics Mechanics and Servicers,7
+7.9802966,-0.31352022,7422,Information and Communications Technology Installers and Servicers,7
+4.766058,3.031886,75,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",7
+4.912054,3.2939417,751,Food Processing and Related Trades Workers,7
+4.637561,3.166292,7511,"Butchers, Fishmongers and Related Food Preparers",7
+9.27117,6.613425,7512,"Bakers, Pastry-cooks and Confectionery Makers",7
+5.0829687,3.3566399,7513,Dairy Products Makers,7
+4.917542,3.31484,7514,"Fruit, Vegetable and Related Preservers",7
+5.190838,3.4439282,7515,Food and Beverage Tasters and Graders,7
+5.041666,3.1892993,7516,Tobacco Preparers and Tobacco Products Makers,7
+5.4158273,2.4506457,752,"Wood Treaters, Cabinet-makers and Related Trades Workers",7
+5.287365,2.4765894,7521,Wood Treaters,7
+5.606385,2.438489,7522,Cabinet-makers and Related Workers,7
+5.52982,2.4412584,7523,Woodworking Machine Tool Setters and Operators,7
+6.0240207,4.194612,753,Garment and Related Trades Workers,7
+5.9785824,4.158592,7531,"Tailors, Dressmakers, Furriers and Hatters",7
+5.9942503,4.2663503,7532,Garment and Related Patternmakers and Cutters,7
+5.986403,4.269899,7533,"Sewing, Embroidery and Related Workers",7
+6.05481,4.1039824,7534,Upholsterers and Related Workers,7
+5.5129557,4.166548,7535,"Pelt Dressers, Tanners and Fellmongers",7
+5.9726214,4.1783195,7536,Shoemakers and Related Workers,7
+7.4177127,2.7040994,754,Other Craft and Related Workers,7
+5.667556,0.57530314,7541,Underwater Divers,7
+7.673518,2.832964,7542,Shotfirers and Blasters,7
+5.7635956,3.7718282,7543,Product Graders and Testers (except Foods and Beverages),7
+4.228773,2.999034,7544,Fumigators and Other Pest and Weed Controllers,7
+6.4439974,2.6911361,7549,Craft and Related Workers not Elsewhere Classified,7
+6.7248783,2.043357,8,"Plant and Machine Operators, and Assemblers",8
+6.82528,1.5333018,81,Stationary Plant and Machine Operators,8
+7.272424,2.1751866,811,Mining and Mineral Processing Plant Operators,8
+7.4696307,2.2703643,8111,Miners and Quarriers,8
+7.4147115,2.043234,8112,Mineral and Stone Processing Plant Operators,8
+7.4509163,2.2376997,8113,Well Drillers and Borers and Related Workers,8
+7.2737675,2.829348,8114,"Cement, Stone and Other Mineral Products Machine Operators",8
+6.986588,2.0100038,812,Metal Processing and Finishing Plant Operators,8
+7.291238,2.0691535,8121,Metal Processing Plant Operators,8
+6.4267287,1.8082699,8122,"Metal Finishing, Plating and Coating Machine Operators",8
+6.9051123,2.078594,813,Chemical and Photographic Products Plant and Machine Operators,8
+6.884433,2.138898,8131,Chemical Products Plant and Machine Operators,8
+6.3042097,3.4122765,8132,Photographic Products Machine Operators,8
+5.9972863,3.032269,814,"Rubber, Plastic and Paper Products Machine Operators",8
+5.9737577,3.0495832,8141,Rubber Products Machine Operators,8
+6.2265162,2.3454888,8142,Plastic Products Machine Operators,8
+5.9109898,3.2592278,8143,Paper Products Machine Operators,8
+5.915306,4.2138066,815,"Textile, Fur and Leather Products Machine Operators",8
+5.8328958,4.269561,8151,"Fibre Preparing, Spinning and Winding Machine Operators",8
+5.8119183,4.3190594,8152,Weaving and Knitting Machine Operators,8
+5.95644,4.2958565,8153,Sewing Machine Operators,8
+5.8558755,4.1737266,8154,"Bleaching, Dyeing and Fabric Cleaning Machine Operators",8
+5.700704,4.2289867,8155,Fur and Leather Preparing Machine Operators,8
+5.8791633,4.015387,8156,Shoemaking and Related Machine Operators,8
+6.5475097,4.3056087,8157,Laundry Machine Operators,8
+5.886391,4.262666,8159,"Textile, Fur and Leather Products Machine Operators Not Elsewhere Classified",8
+5.025645,3.276964,816,Food and Related Products Machine Operators,8
+5.0372286,3.2752411,8160,Food and Related Products Machine Operators,8
+5.4110665,2.5366824,817,Wood Processing and Papermaking Plant Operators,8
+5.9254613,3.0259814,8171,Pulp and Papermaking Plant Operators,8
+5.3106284,2.451621,8172,Wood Processing Plant Operators,8
+6.7758794,1.6673529,818,Other Stationary Plant and Machine Operators,8
+6.410857,2.676665,8181,Glass and Ceramics Plant Operators,8
+6.293895,0.73390007,8182,Steam Engine and Boiler Operators,8
+5.90337,3.3187149,8183,"Packing, Bottling and Labelling Machine Operators",8
+-6.3654633,7.4901237,8189,Stationary Plant and Machine Operators Not Elsewhere Classified,8
+7.0104923,0.7695226,82,Assemblers,8
+7.0112615,0.8461445,821,Assemblers,8
+7.0169663,0.9072997,8211,Mechanical Machinery Assemblers,8
+7.0229506,0.7660178,8212,Electrical and Electronic Equipment Assemblers,8
+6.950379,0.90762454,8219,Assemblers Not Elsewhere Classified,8
+5.8449697,1.3350649,83,Drivers and Mobile Plant Operators,8
+8.2478075,4.621597,831,Locomotive Engine Drivers and Related Workers,8
+8.297645,4.6890597,8311,Locomotive Engine Drivers,8
+8.345946,4.648825,8312,"Railway Brake, Signal and Switch Operators",8
+7.9799757,4.8425283,832,"Car, Van and Motorcycle Drivers",8
+8.060731,4.9412293,8321,Motorcycle Drivers,8
+8.301924,4.848311,8322,"Car, Taxi and Van Drivers",8
+8.109893,4.6600943,833,Heavy Truck and Bus Drivers,8
+8.347742,4.887081,8331,Bus and Tram Drivers,8
+8.209118,4.664915,8332,Heavy Truck and Lorry Drivers,8
+7.1175156,2.7173302,834,Mobile Plant Operators,8
+5.11224,2.4262009,8341,Mobile Farm and Forestry Plant Operators,8
+7.2167587,2.8040323,8342,Earthmoving and Related Plant Operators,8
+7.2072043,2.7293003,8343,"Crane, hoist and related plant operators",8
+8.099769,4.3821855,8344,Lifting Truck Operators,8
+5.753271,0.6327672,835,Ships' Deck Crews and Related Workers,8
+5.7550344,0.66439337,8350,Ships' Deck Crews and Related Workers,8
+8.839569,5.278256,9,Elementary Occupations,9
+9.007151,5.63432,91,Cleaners and Helpers,9
+9.14003,5.6910305,911,"Domestic, Hotel and Office Cleaners and Helpers",9
+9.09284,5.738409,9111,Domestic Cleaners and Helpers,9
+8.945833,5.64374,9112,"Cleaners and Helpers in Offices, Hotels and Other Establishments",9
+7.2866917,4.5079203,912,"Vehicle, Window, Laundry and Other Hand Cleaning Workers",9
+6.9413056,4.4920783,9121,Hand Launderers and Pressers,9
+7.7317357,4.77559,9122,Vehicle Cleaners,9
+7.214884,4.1755767,9123,Window Cleaners,9
+7.3578916,4.4548006,9129,Other Cleaning Workers,9
+4.331489,2.5251644,92,"Agricultural, Forestry and Fishery Labourers",9
+3.9241383,2.6612692,921,"Agricultural, Forestry and Fishery Labourers",9
+3.78629,2.6491575,9211,Crop Farm Labourers,9
+3.2524738,3.114976,9212,Livestock Farm Labourers,9
+3.4807599,2.9402924,9213,Mixed Crop and Livestock Farm Labourers,9
+3.926366,2.8049927,9214,Garden and Horticultural Labourers,9
+4.999471,2.3564548,9215,Forestry Labourers,9
+5.462526,0.59307796,9216,Fishery and Aquaculture Labourers,9
+7.0044503,2.786106,93,"Labourers in Mining, Construction, Manufacturing and Transport",9
+7.2702227,2.837775,931,Mining and Construction Labourers,9
+7.3765473,2.2849998,9311,Mining and Quarrying Labourers,9
+7.318341,2.8541787,9312,Civil Engineering Labourers,9
+7.343699,2.905668,9313,Building Construction Labourers,9
+8.319017,4.1686497,932,Manufacturing Labourers,9
+8.3271265,4.0235825,9321,Hand Packers,9
+8.1627655,4.3197927,9329,Manufacturing Labourers Not Elsewhere Classified,9
+8.110947,4.665787,933,Transport and Storage Labourers,9
+8.20378,4.89826,9331,Hand and Pedal Vehicle Drivers,9
+3.1508236,3.1730468,9332,Drivers of Animal-drawn Vehicles and Machinery,9
+8.388349,4.259522,9333,Freight Handlers,9
+9.292241,4.084778,9334,Shelf Fillers,9
+9.251936,6.556345,94,Food Preparation Assistants,9
+9.3346195,6.590984,941,Food Preparation Assistants,9
+9.369016,6.6306224,9411,Fast Food Preparers,9
+9.34903,6.5643244,9412,Kitchen Helpers,9
+9.023181,4.886019,95,Street and Related Sales and Service Workers,9
+8.564216,5.0474443,951,Street and Related Service Workers,9
+8.659292,5.0865664,9510,Street and Related Service Workers,9
+9.094658,4.6336107,952,Street Vendors (excluding Food),9
+9.186709,4.607351,9520,Street Vendors (excluding Food),9
+8.746939,5.281098,96,Refuse Workers and Other Elementary Workers,9
+8.637923,5.28774,961,Refuse Workers,9
+8.525548,5.2247567,9611,Garbage and Recycling Collectors,9
+8.6132965,5.229666,9612,Refuse Sorters,9
+8.513945,5.2982616,9613,Sweepers and Related Labourers,9
+8.918828,5.1786847,962,Other Elementary Workers,9
+8.366556,4.415438,9621,"Messengers, Package Deliverers and Luggage Porters",9
+7.501473,4.1236224,9622,Odd Job Persons,9
+9.262095,4.906491,9623,Meter Readers and Vending-machine Collectors,9
+3.8913639,2.2535741,9624,Water and Firewood Collectors,9
+9.384997,5.0410776,9629,Elementary Workers Not Elsewhere Classified,9
+-6.3493276,7.473996,0,Armed Forces Occupations,0
+-6.268994,7.393617,01,Commissioned Armed forces Officers,0
+-6.2415943,7.366184,011,Commissioned Armed Forces Officers,0
+-6.294018,7.4187074,0110,Commissioned Armed Forces Officers,0
+-6.294056,7.4187436,02,Non-commissioned Armed Forces Officers,0
+-6.1935563,7.3181314,021,Non-commissioned Armed Forces Officers,0
+-6.3462706,7.4708714,0210,Non-commissioned Armed Forces Officers,0
+-6.294439,7.419052,03,"Armed Forces Occupations, Other Ranks",0
+-6.2720485,7.3966208,031,"Armed Forces Occupations, Other Ranks",0
+-6.291914,7.4182415,0310,"Armed Forces Occupations, Other Ranks",0
