@@ -27,6 +27,12 @@ Steps:
 | `outputs/reduced/{field}_kpca.csv` | 2D Kernel PCA coordinates |
 | `outputs/figures/umap_2x2.png` | UMAP visualisation |
 
+## Difference from the paper
+
+The measures produced here are **not identical** to those used in the paper. The paper relies on administrative data from the Public Employment Service of Flanders, Belgium (VDAB), which is not publicly available. That dataset contains 1,157 distinct jobs defined by the Belgian PES classification (derived from the French ROME-v3 system), each further split into up to three experience levels (less than two years, two to five years, and more than five years), yielding a finer occupational grid than any international standard classification. Task descriptions in the paper come from the COMPETENT matrix — a structured inventory of 10,303 unique tasks compiled by the Belgian authorities from expert observations and surveys.
+
+This repository re-implements the same methodology using the publicly available [ISCO-08](https://www.ilo.org/public/english/bureau/stat/isco/isco08/) classification from the ILO, which contains approximately 500 unit groups with no experience dimension. The resulting similarity measures therefore differ in granularity and coverage, but the underlying approach — sentence embeddings of occupational text fields and cosine similarity — is identical.
+
 ## Usage
 
 ```bash
